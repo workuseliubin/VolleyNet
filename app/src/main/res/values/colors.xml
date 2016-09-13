@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bg_tab_pressed">#6633b5e5</color>
+    <color name="tab_text_color">#44000000</color>
+    <color name="prompt_dialog_bg">#0a000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray7">#777777</color>
+    <color name="grayEE">#eeeeee</color>
+    <color name="grayE5">#E5E5E5</color>
+    <color name="grayDB">#dadadb</color>
+    <color name="grayA0">#a0a0a0</color>
+    <color name="grayAA">#95a1aa</color>
+    <color name="grayBF">#bfbfbf</color>
+    <color name="grayD2">#D2D2D2</color>
+    <color name="grayA">#AAAAAA</color>
+    <color name="black3A">#32323a</color>
+    <color name="greenAC">#1fb5ac</color>
+    <color name="greenAD">#1fb5ad</color>
+    <color name="greenDC">#71e2dc</color>
+    <color name="greenAF">#09b8af</color>
+    <color name="green88">#028f88</color>
+    <color name="orange0F">#f8a30f</color>
+    <color name="red40">#e54640</color>
+    <color name="red3F">#e5473f</color>
+    <color name="blackEF">#efefef</color>
+
+    <!--home界面——————————————————————————————————-->
+    <!--home界面房源的tab栏的颜色-->
+    <color name="tab_background">#31333a</color>
+    <!--home界面房源的tab文字的颜色-->
+    <color name="tab_textcolor">#ffffff</color>
+    <!--home界面房源的tab底部横线的颜色-->
+    <color name="tab_IndicatorColor">#f8a20f</color>
+    <!--home界面房源的tab选中字体的颜色-->
+    <color name="tab_SelectedTextColor">#71e2dc</color>
+
+
+    <color name="home_bottom_bg">#31333a</color>
+    <color name="home_online_text_shaixuan">#32323a</color>
+    <color name="home_online_text_center">#777777</color>
+    <color name="home_online_text_duotu">#f8a20f</color>
+    <color name="home_caogao_button">#e5473f</color>
+
+
+    <!--home界面——————————————————————————————————-->
+
+    <!-- 我的————————————start—————————————————— -->
+    <color name="my_gray">#e0e0e0</color>
+    <!-- 我的————————————end—————————————————— -->
+
+
+    <!--通用头————————————————start——————————————————-->
+    <color name="common_bg">#31333a</color>
+    <color name="common_text">#ffffff</color>
+    <!--通用头————————————————end——————————————————-->
+
+
+    <!--注册界面————————————————start——————————————————-->
+    <color name="register_top">#95a1aa</color>
+    <color name="register_text">#ffffff</color>
+    <color name="register_center">#dadadb</color>
+    <color name="register_item_left">#777777</color>
+    <color name="register_item_right">#a0a0a0</color>
+    <color name="register_item_rigster">#1f65ad</color>
+    <color name="shangquan_erji">#eeeeee</color>
+    <!--注册界面————————————————end——————————————————-->
+    <!--注册界面————————————————end——————————————————-->
+
+    <!--确定框————————————————start——————————————————-->
+    <color name="shangquan_ok">#1fb5ad</color>
+    <color name="shangquan_text_color">#ffffff</color>
+    <!--确定框————————————————end——————————————————-->
+
+
+    <!--ListView上拉刷新和下拉加载-->
+
+    <color name="gray">#aaaaaa</color>
+    <color name="light_blue">#eaeaea</color>
+
+
+</resources>
