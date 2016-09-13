@@ -12,3 +12,4 @@
 ### 3、 AuthCodeRequest（发送验证码）类及CheckPhoneRequest（校验手机号）类：根据业务需求同上。
 ### 4、 BaseRequest类需要根据自己的业务需求更改下方的参数封装及BaseResponse类的参数类型。
 #### 其它使用上的问题或者有技术上的建议，欢迎给我留言，我会继续跟进项目。
+ 
