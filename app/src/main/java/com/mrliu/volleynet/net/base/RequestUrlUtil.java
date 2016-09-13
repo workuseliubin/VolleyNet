@@ -14,7 +14,7 @@ public class RequestUrlUtil {
     private RequestUrlUtil() {}
 
     public static class Builder {
-        public static final String HTTP_AGENT_HOUSE_IFENG_COM = "http://hostPath";
+        public static final String HOSTURL = "http://hostPath";
         private boolean isHttp = true;
 
         private String hosturl;
@@ -36,7 +36,7 @@ public class RequestUrlUtil {
             return this;
         }
         public Builder setHost() {
-            this.hosturl = HTTP_AGENT_HOUSE_IFENG_COM;
+            this.hosturl = HOSTURL;
             return this;
         }
 
